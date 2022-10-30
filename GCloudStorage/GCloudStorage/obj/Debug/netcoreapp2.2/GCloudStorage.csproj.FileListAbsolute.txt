@@ -1,0 +1,11 @@
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\bin\Debug\netcoreapp2.2\GCloudStorage.deps.json
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\bin\Debug\netcoreapp2.2\GCloudStorage.runtimeconfig.json
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\bin\Debug\netcoreapp2.2\GCloudStorage.runtimeconfig.dev.json
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\bin\Debug\netcoreapp2.2\GCloudStorage.dll
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.csprojAssemblyReference.cache
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.csproj.CoreCompileInputs.cache
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.AssemblyInfoInputs.cache
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.AssemblyInfo.cs
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\bin\Debug\netcoreapp2.2\GCloudStorage.pdb
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.dll
+C:\Users\ravic\source\repos\Projects\OnlyDotNetCore\GCloudStorage\GCloudStorage\obj\Debug\netcoreapp2.2\GCloudStorage.pdb
